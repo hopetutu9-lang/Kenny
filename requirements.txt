@@ -1,0 +1,5 @@
+python-telegram-bot>=22.4,<23
+python-binance>=1.0.37,<2
+pandas>=2.2,<4
+numpy>=1.26,<3
+cryptography>=44,<47
